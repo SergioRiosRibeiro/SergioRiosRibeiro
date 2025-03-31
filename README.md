@@ -9,9 +9,9 @@
 
 ##  About me:
 
-(PT-BR) Sou um estudante de engenharia de software, apaixonado por Kotlin, focado em desenvolvimento em android nativo usando o Android Studio, com arquitetura MVVM e orientação a objetos. Estudo de forma intensiva para me aprimorar. Acha que posso contribuir com o seu projeto de alguma forma? Entre em contato!
+(PT-BR) Sou um estudante de programação, atualmente matriculado no curso de engenharia de software da Wyden-UNIFAVIP (Polo Pituba), apaixonado por Kotlin, focado em desenvolvimento em android nativo usando o Android Studio, com arquitetura MVVM e orientação a objetos. Estudo de forma intensiva para me aprimorar. Acha que posso contribuir com o seu projeto de alguma forma? Entre em contato!
 
-(EN-US) I'm a software engineer studant, passionate about Kotlin, focused on native Android development using Android Studio, with MVVM architecture and object orientation. I study intensively to improve myself. Do you think I can contribute to your project in some way? Contact!
+(EN-US) I am a programming student, currently enrolled in the software engineering course at Wyden-UNIFAVIP (Polo Pituba), passionate about Kotlin, focused on native Android development using Android Studio, with MVVM architecture and object orientation. I study intensively to improve myself. Do you think I can contribute to your project in some way? Get in touch!
 
 ## 📫 Find me in:
 
