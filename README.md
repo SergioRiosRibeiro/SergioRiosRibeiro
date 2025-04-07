@@ -2,16 +2,24 @@
 # Sérgio Rios Ribeiro
 
 #### Hello there! 👋🏻 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc3VBAHF9Lx_9XrS00Od3iQm0JuWZbZZjxmA&usqp=CAU">
- <source media="(prefers-color-scheme: light)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsTrTiOLut0QgwtxE7231afNeAYcdEc46FpX_00ZAcyuB-QveewKOBLI850nhd8cipKyw&usqp=CAU">
- <img alt="YOUR-ALT-TEXT" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsTrTiOLut0QgwtxE7231afNeAYcdEc46FpX_00ZAcyuB-QveewKOBLI850nhd8cipKyw&usqp=CAU">
+ <source media="(prefers-color-scheme: dark)" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTdoeXpyZjB1Nzh1eXl5Z2k3NDFlbWtzbHllcWNtYTlvODhxMWRleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TSmahCISxIiZ2/giphy.gif">
+ <source media="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeng2b3F0dGZ6eWxudGQ1a2JmM3h1MXIwNmUyYndsN3psZzdmeTBlZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4c0sdgYcz9mpO/giphy.gif">
+ <img alt="Gif-Hello-There-Light" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeng2b3F0dGZ6eWxudGQ1a2JmM3h1MXIwNmUyYndsN3psZzdmeTBlZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4c0sdgYcz9mpO/giphy.gif">
 </picture>
 
 ##  About me:
 
-(PT-BR) Sou um estudante de programação, atualmente matriculado no curso de engenharia de software da Wyden-UNIFAVIP (Polo Pituba), apaixonado por Kotlin, focado em desenvolvimento em android nativo usando o Android Studio, com arquitetura MVVM e orientação a objetos. Estudo de forma intensiva para me aprimorar. Acha que posso contribuir com o seu projeto de alguma forma? Entre em contato!
+(PT-BR)
+📚 Engenharia de Software (Wyden-UNIFAVIP) | 💻 Kotlin | Android Nativo |⚡ POO & MVVM (Arquitetura limpa e boas práticas) | 🌐 Estudando Web (HTML, CSS, JS) |
+✨ Busco oportunidades para aprender e contribuir. Bora trocar ideia?
 
-(EN-US) I am a programming student, currently enrolled in the software engineering course at Wyden-UNIFAVIP (Polo Pituba), passionate about Kotlin, focused on native Android development using Android Studio, with MVVM architecture and object orientation. I study intensively to improve myself. Do you think I can contribute to your project in some way? Get in touch!
+(EN)
+📚 Software Engineering (Wyden-UNIFAVIP) | 💻 Kotlin | Native Android |⚡ OOP & MVVM (Clean architecture, best practices) |🌐 Learning Web (HTML, CSS, JS)
+✨ Open to collaborate and grow. Let’s connect!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioRiosRibeiro&layout=pie)](https://github.com/SergioRiosRibeiro/github-readme-stats)
+
+![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioRiosRibeiro&show_icons=true&theme=radical)
 
 ## 📫 Find me in:
 
